@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </p>
@@ -47,7 +47,7 @@
   <tr>
     <td>
       <a href="https://github.com/EzequielFrancisco">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula&hide=html,css" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula&hide=jupyter%20notebook,html,css,scss,shell" alt="Top Languages" />
       </a>
     </td>
     <td>
