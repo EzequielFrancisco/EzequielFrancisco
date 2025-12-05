@@ -4,7 +4,7 @@
 
 <h1 align="center">🚀 Ezequiel Francisco · Software Developer</h1>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EzequielFrancisco" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=EzequielFrancisco&style=flat-square&color=blue" alt="Visitors"/>
 </p>
 <p align="center"><em>Clean code, elegant solutions & endless coffee ☕</em></p>
 
@@ -47,12 +47,13 @@
   <tr>
     <td>
       <a href="https://github.com/EzequielFrancisco">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula&hide=jupyter%20notebook,html,css,scss,shell" alt="Top Languages" />
+        <!-- SOLUÇÃO FUNCIONAL PARA TOP LANGUAGES -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&hide_border=true&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
       </a>
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=EzequielFrancisco&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=EzequielFrancisco&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
