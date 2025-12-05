@@ -48,7 +48,7 @@
     <td>
       <a href="https://github.com/EzequielFrancisco">
         <!-- SOLUÇÃO FUNCIONAL PARA TOP LANGUAGES -->
-        <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&hide_border=true&layout=compact&theme=dracula&langs_count=6](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula)" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" />
       </a>
     </td>
     <td>
