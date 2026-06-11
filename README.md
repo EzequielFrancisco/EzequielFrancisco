@@ -1,200 +1,80 @@
+melhora isto, preferência em inglês e coloca tameb o laravel nas linguagens que omino.
 <!-- =========================
-         EZEQUIEL FRANCISCO
+         README – Ezequiel
 ========================= -->
 
 <h1 align="center">Ezequiel Francisco</h1>
-
-<h3 align="center">
-Full-Stack Developer • React • Django • Laravel
-</h3>
+<h3 align="center">Full-Stack Developer · React.js & Django</h3>
 
 <p align="center">
-Building scalable web applications, APIs, and digital products with a focus on performance, maintainability, and user experience.
+  <img src="https://komarev.com/ghpvc/?username=EzequielFrancisco&style=flat-square&color=blue" alt="Visitors"/>
 </p>
+
+<p align="center"><em>Clean code, elegant solutions & endless coffee ☕</em></p>
+
+---
+
+## About
+
+Full-stack developer focused on **React.js** and **Python/Django**.  
+Currently exploring Generative AI, LLMs, and test-driven development.  
+I contribute to open-source and value clean, maintainable code.
+
+---
+
+## Core Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EzequielFrancisco&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
 </p>
 
 ---
 
-## About Me
-
-I'm a Full-Stack Developer passionate about transforming ideas into reliable and scalable software.
-
-My work focuses on modern web technologies, backend architecture, API development, and creating intuitive user experiences. I enjoy solving complex problems, learning new technologies, and building projects that create real value.
-
-Currently, I'm deepening my knowledge in:
-
-* Artificial Intelligence & LLMs
-* Software Architecture
-* Design Patterns
-* Cloud Computing
-* DevOps Practices
-* System Design
-* Test-Driven Development (TDD)
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42"/>
-</p>
-
-### Databases
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42"/>
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/>
-</p>
-
----
-
-## What I Like Building
-
-* Full-stack web applications
-* REST APIs
-* SaaS products
-* Developer tools
-* AI-powered applications
-* Automation systems
-* Open-source projects
-
----
-
-## Featured Projects
-
-### Academia — Mobile App
-
-Mobile application developed with React Native for gym management, workout tracking, and athlete monitoring.
-
-**Technologies:**
-
-* React Native
-* JavaScript
-* REST APIs
-
-🔗 Repository:
-https://github.com/EzequielFrancisco/Academia---Mobil-App
-
----
-
-### Candidart
-
-Platform connecting artists with opportunities and organizations through a modern web experience.
-
-**Technologies:**
-
-* React
-* Django
-* PostgreSQL
-
-🔗 Repository:
-https://github.com/EzequielFrancisco/Candidart
-
----
-
-## Current Learning Journey
-
-```text
-Backend Architecture     █████████░ 90%
-React Ecosystem          █████████░ 90%
-Laravel                  ████████░░ 80%
-Django                   █████████░ 90%
-DevOps                   ██████░░░░ 60%
-Artificial Intelligence  ███████░░░ 70%
-System Design            ██████░░░░ 60%
-```
-
----
-
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EzequielFrancisco&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=EzequielFrancisco&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <a href="https://github.com/EzequielFrancisco">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzequielFrancisco&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" />
+  </a>
+  &nbsp;
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=EzequielFrancisco&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-## Philosophy
+## Selected Projects
 
-> Software is not just about writing code.
->
-> It is about solving problems, designing systems, and creating value through technology.
+- **[Academia – Mobil App](https://github.com/EzequielFrancisco/Academia---Mobil-App)** – Mobile application built with React Native for gym management and workout tracking.
+- **[Candidart](https://github.com/EzequielFrancisco/Candidart)** – Web platform connecting artists with opportunities, built with React.js and Django.
 
 ---
 
 ## Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ezequiel-francisco-9b2a30326/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:ezequiel.p.a.francisco@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://medium.com/@ezequiel.p.a.francisco">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/ezequiel-francisco-9b2a30326/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ezequiel.p.a.francisco@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://medium.com/@ezequiel.p.a.francisco" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building today. Learning every day. Improving forever.</i>
+  <em>"First solve the problem. Then write the code." — John Johnson</em>
 </p>
