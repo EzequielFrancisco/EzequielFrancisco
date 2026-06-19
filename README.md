@@ -3,7 +3,7 @@
 ========================= -->
 
 <h1 align="center">Ezequiel Francisco</h1>
-<h3 align="center">Full-Stack Developer · React, Django & Laravel</h3>
+<h3 align="center">Softwaer Develope · React, Django & Laravel</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EzequielFrancisco&style=flat-square&color=blue" alt="Profile Views"/>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer passionate about building modern web and mobile applications.
+I'm a Softwaer Developer passionate about building modern web and mobile applications.
 
 My primary focus is developing robust solutions with **React**, **Django**, and **Laravel**, while maintaining clean architecture, performance, and maintainability.
 
